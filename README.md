@@ -1,8 +1,8 @@
-# React + Vite
+**GuitarLa**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ecommerce with shopping cart using local storage.
+![image](https://github.com/user-attachments/assets/89f5046f-c17c-40e9-95d1-370aaf932a97)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Deployed in:
+https://guitarladrav.netlify.app/
